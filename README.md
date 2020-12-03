@@ -1,2 +1,5 @@
 # CSGO Configuration
-This repo contains files useful for csgo automated configuration
+Repo containing files useful for Counter Strike: Global Offensive configuration.
+
+
+Based on: [Kosmos299 CSGO Config](https://github.com/Kosmos299/CSConfig). 
